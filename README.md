@@ -14,3 +14,8 @@
 </p>
 
 
+
+## GitHub Stats
+<details>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanio1&show_icons=true&locale=en" alt="Ivanio1" />
+</details>
