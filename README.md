@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://vk.com/ivan_ivan_sobolev" target="_blank" rel="noreferrer"> <img align="left" alt="VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
    <a href="https://t.me/sobolev_ivann" target="_blank" rel="noreferrer"> <img align="left" alt="Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
-   <a href="https://www.linkedin.com/mwlite/in/ivan-sobolev-151217252" target="_blank" rel="noreferrer"> <img align="left" alt="LinkedIn" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/></a>
+   <a href="https://www.linkedin.com/mwlite/in/ivan-sobolev-151217252" target="_blank" rel="noreferrer"> <img align="left" alt="LinkedIn" width="36px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg"/></a>
 </p>
 <br />  
 <br />  
