@@ -40,6 +40,8 @@
 <br>
 <a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 4. Web Project on JSF + JPA </a>
 <br>
+<a href="https://github.com/Ivanio1/different_tasks/tree/main/theme_of_the_text_webapp" target="_blank" rel="noreferrer"> 5. Python Web Project on Flask </a>
+<br>
 
 
 
