@@ -36,9 +36,9 @@
 <br>
 <a href="https://github.com/Ivanio1/WEB1" target="_blank" rel="noreferrer"> 2. Web Project on Php + html + JavaScript </a>
 <br>
-<a href="https://github.com/Ivanio1/WEB2" target="_blank" rel="noreferrer"> 2. Web Project on Servlet + JSP </a>
+<a href="https://github.com/Ivanio1/WEB2" target="_blank" rel="noreferrer"> 3. Web Project on Servlet + JSP </a>
 <br>
-<a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 2. Web Project on JSF + JPA </a>
+<a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 4. Web Project on JSF + JPA </a>
 <br>
 
 
