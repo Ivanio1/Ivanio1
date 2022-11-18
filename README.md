@@ -12,6 +12,17 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
+## Main projects
+<a href="https://github.com/Ivanio1/LAB8" target="_blank" rel="noreferrer"> 1. Client-Server(TCP) on Java + JDBC + JavaFX </a>
+<br>
+<a href="https://github.com/Ivanio1/WEB1" target="_blank" rel="noreferrer"> 2. Web Project on Php + html + JavaScript </a>
+<br>
+<a href="https://github.com/Ivanio1/WEB2" target="_blank" rel="noreferrer"> 3. Web Project on Servlet + JSP </a>
+<br>
+<a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 4. Web Project on JSF + JPA </a>
+<br>
+<a href="https://github.com/Ivanio1/different_tasks/tree/main/theme_of_the_text_webapp" target="_blank" rel="noreferrer"> 5. Python Web Project on Flask </a>
+
 
 ## Contacts
 <p align="left">
@@ -31,17 +42,6 @@
 </details>
 
 
-## Main projects
-<a href="https://github.com/Ivanio1/LAB8" target="_blank" rel="noreferrer"> 1. Client-Server(TCP) on Java + JDBC + JavaFX </a>
-<br>
-<a href="https://github.com/Ivanio1/WEB1" target="_blank" rel="noreferrer"> 2. Web Project on Php + html + JavaScript </a>
-<br>
-<a href="https://github.com/Ivanio1/WEB2" target="_blank" rel="noreferrer"> 3. Web Project on Servlet + JSP </a>
-<br>
-<a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 4. Web Project on JSF + JPA </a>
-<br>
-<a href="https://github.com/Ivanio1/different_tasks/tree/main/theme_of_the_text_webapp" target="_blank" rel="noreferrer"> 5. Python Web Project on Flask </a>
-<br>
 
 
 
