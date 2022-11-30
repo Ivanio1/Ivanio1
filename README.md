@@ -15,15 +15,19 @@
 
 
 ## Main projects
-<a href="https://github.com/Ivanio1/LAB8" target="_blank" rel="noreferrer"> 1. Client-Server(TCP) on Java + JDBC + JavaFX </a>
+<a href="https://github.com/Ivanio1/web4-frontend" target="_blank" rel="noreferrer"> 1(Frontend). React+Redux - Spring Web Application </a>
 <br>
-<a href="https://github.com/Ivanio1/WEB1" target="_blank" rel="noreferrer"> 2. Web Project on Php + html + JavaScript </a>
+<a href="https://github.com/Ivanio1/web4-backend" target="_blank" rel="noreferrer"> 1(Backend). React+Redux - Spring Web Application </a>
 <br>
-<a href="https://github.com/Ivanio1/WEB2" target="_blank" rel="noreferrer"> 3. Web Project on Servlet + JSP </a>
+<a href="https://github.com/Ivanio1/LAB8" target="_blank" rel="noreferrer"> 2. Client-Server(TCP) on Java + JDBC + JavaFX </a>
 <br>
-<a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 4. Web Project on JSF + JPA </a>
+<a href="https://github.com/Ivanio1/WEB1" target="_blank" rel="noreferrer"> 3. Web Application on Php + html + JavaScript </a>
 <br>
-<a href="https://github.com/Ivanio1/different_tasks/tree/main/theme_of_the_text_webapp" target="_blank" rel="noreferrer"> 5. Python Web Project on Flask </a>
+<a href="https://github.com/Ivanio1/WEB2" target="_blank" rel="noreferrer"> 4. Web Application on Servlet + JSP </a>
+<br>
+<a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 5. Web Application on JSF + JPA </a>
+<br>
+<a href="https://github.com/Ivanio1/different_tasks/tree/main/theme_of_the_text_webapp" target="_blank" rel="noreferrer"> 6. Python Web Application on Flask </a>
 
 
 ## Contacts
