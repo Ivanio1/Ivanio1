@@ -36,14 +36,13 @@
    <a href="https://t.me/sobolev_ivann" target="_blank" rel="noreferrer"> <img align="left" alt="Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
    <a href="https://gitlab.se.ifmo.ru/Ivanio1" target="_blank" rel="noreferrer"> <img align="left" alt="GitLab" width="70px" src="https://www.logo.wine/a/logo/GitLab/GitLab-Logo.wine.svg"/></a>
    <a href="https://www.linkedin.com/mwlite/in/ivan-sobolev-151217252" target="_blank" rel="noreferrer"> <img align="left" alt="LinkedIn" width="60px"  src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg"/></a>
-  
- 
 </p>
 <br />  
 <br />  
-
+<p align="left">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanio1&layout=compact&theme=gotham&border_radius=30&hide=c)
-<br />  
+</p>
+  <br />  
 <br />  
 
 ## GitHub Stats
