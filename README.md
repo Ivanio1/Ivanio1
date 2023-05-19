@@ -42,7 +42,7 @@
 <br />  
 <br />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanio1&layout=compact&theme=gotham&border_radius=30)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanio1&layout=compact&theme=gotham&border_radius=30&hide=c)
 <br />  
 <br />  
 
