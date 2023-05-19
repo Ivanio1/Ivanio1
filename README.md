@@ -44,7 +44,7 @@
 
 <span>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width=375 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanio1&show_icons=true&count_private=true&theme=midnight-purple&layout=compact&langs_count=8" />
+    <img align="center" width=375 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanio1&show_icons=true&count_private=true&theme=midnight-purple&layout=compact&langs_count=8" />
   </a>
 </span> 
 <br />  
