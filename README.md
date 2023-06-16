@@ -15,19 +15,21 @@
 
 
 ## Main projects
-<a href="https://github.com/Ivanio1/web4-frontend" target="_blank" rel="noreferrer"> 1(Frontend). React+Redux - Spring Web Application </a>
+<a href="https://github.com/Ivanio1/SwapHub" target="_blank" rel="noreferrer"> 1. SwapHub - Platform for buying and selling items between users </a>
 <br>
-<a href="https://github.com/Ivanio1/web4-backend" target="_blank" rel="noreferrer"> 1(Backend). React+Redux - Spring Web Application </a>
+<a href="https://github.com/Ivanio1/web4-frontend" target="_blank" rel="noreferrer"> 2(Frontend). React+Redux - Spring Web Application </a>
 <br>
-<a href="https://github.com/Ivanio1/LAB8" target="_blank" rel="noreferrer"> 2. Client-Server(TCP) on Java + JDBC + JavaFX </a>
+<a href="https://github.com/Ivanio1/web4-backend" target="_blank" rel="noreferrer"> 2(Backend). React+Redux - Spring Web Application </a>
 <br>
-<a href="https://github.com/Ivanio1/WEB1" target="_blank" rel="noreferrer"> 3. Web Application on Php + html + JavaScript </a>
+<a href="https://github.com/Ivanio1/LAB8" target="_blank" rel="noreferrer"> 3. Client-Server(TCP) on Java + JDBC + JavaFX </a>
 <br>
-<a href="https://github.com/Ivanio1/WEB2" target="_blank" rel="noreferrer"> 4. Web Application on Servlet + JSP </a>
+<a href="https://github.com/Ivanio1/WEB1" target="_blank" rel="noreferrer"> 4. Web Application on Php + html + JavaScript </a>
 <br>
-<a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 5. Web Application on JSF + JPA </a>
+<a href="https://github.com/Ivanio1/WEB2" target="_blank" rel="noreferrer"> 5. Web Application on Servlet + JSP </a>
 <br>
-<a href="https://github.com/Ivanio1/different_tasks/tree/main/theme_of_the_text_webapp" target="_blank" rel="noreferrer"> 6. Python Web Application on Flask </a>
+<a href="https://github.com/Ivanio1/WEB3" target="_blank" rel="noreferrer"> 6. Web Application on JSF + JPA </a>
+<br>
+<a href="https://github.com/Ivanio1/different_tasks/tree/main/theme_of_the_text_webapp" target="_blank" rel="noreferrer"> 7. Python Web Application on Flask </a>
 
 
 ## Contacts
